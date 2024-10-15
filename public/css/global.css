@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-size: 13px;
 }
 
 a, ul, li{
@@ -19,4 +20,7 @@ a, ul, li{
     --text-color: #221F20;
     --bg-hover-color: #83c5BE;
     --bg-sub-title: #83c5BE;
+    --bg-main: #EBF2FA;
+    --bg-nav: #D6E4F2;
+    --color-nav: #064789;
 }
